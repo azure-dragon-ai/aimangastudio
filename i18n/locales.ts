@@ -1,7 +1,7 @@
 export const locales = {
   zh: {
     // Header
-    AIMangaStudio: "AI Manga Studio",
+    AIMangaStudio: "烙馍网-绘玩空间",
     aiVideoProducer: "AI视频制作器",
     backToEditor: "返回编辑器",
     export: "导出",
@@ -246,7 +246,7 @@ export const locales = {
   },
   en: {
     // Header
-    AIMangaStudio: "AI Manga Studio",
+    AIMangaStudio: "烙馍网-绘玩空间",
     aiVideoProducer: "AI Video Producer",
     backToEditor: "Back to Editor",
     export: "Export",
